@@ -5,8 +5,8 @@ import hashlib
 import urllib.parse
 
 # Constants
-USER_ID = "3003089"
-API_KEY = "97a63089-e352-4aa6-9edb-bfaf7ceb0073"
+USER_ID = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 STOP_ID = 19565  # Stop ID for St Kilda Rd & Union St
 ROUTE_TYPE = 1  # Route type for trams
 BASE_URL = "https://timetableapi.ptv.vic.gov.au/v3"
